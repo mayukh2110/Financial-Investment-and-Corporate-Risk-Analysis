@@ -3,7 +3,7 @@
 ### Financial Risk Analysis and Corporate Risk Assessment Dissertation
 
 **Module:** Financial Investment and Corporate Risk Analysis  
-**Candidate Number:** 277173  
+
 
 #### Abstract
 This dissertation provides an in-depth exploration of financial risk analysis, focusing on quantitative methods, statistical techniques, and credit risk assessment. Key areas covered include Net Present Value (NPV) calculations, risk measurement metrics, Monte Carlo simulations, and the application of Altman's Z-Score for bankruptcy prediction. The work also delves into regression analysis to uncover housing market trends and the design of a retail business model sensitive to fluctuating factors.
